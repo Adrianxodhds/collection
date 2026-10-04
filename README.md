@@ -8,41 +8,10 @@ Welcome to my game collection.
 This repository contains games that I have played, enjoyed, or simply wanted to keep archived.
 The collection includes older classics, multiplayer games, indie titles and random stuff that deserves a place here.
 
-GAME LIBRARY
-
-GAME ARCHIVE
-
-Classic PC games
-
-Old-school multiplayer games
-
-Forgotten games
-
-Demo versions
-
-Games from older systems
-
-Games worth remembering
-
-Other Games
-
-Minecraft
-
-Mario Kart
-
-Nintendo DS / DSi games
-
-Random indie games
-
-Classic PC games
-
-STATUS
-
 COLLECTION STATUS
 -------------------------
 Games:        Updating
 Archive:      ACTIVE
-Old games:    PRESERVED
 Random stuff: 100%
 Nostalgia:    HIGH
 
