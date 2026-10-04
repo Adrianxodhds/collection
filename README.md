@@ -1,7 +1,7 @@
 # collection
 TIKVAN'S GAME COLLECTION
 
-A personal collection of games, memories and digital chaos.
+A personal collection of apps, memories and digital chaos.
 
 Welcome to my game collection.
 
@@ -10,7 +10,7 @@ The collection includes older classics, multiplayer games, indie titles and rand
 
 COLLECTION STATUS
 -------------------------
-Games:        Updating
+Games:        None
 Archive:      ACTIVE
 Random stuff: 100%
 Nostalgia:    HIGH
