@@ -4,21 +4,28 @@
             "name": "NEXUS JSON Studio",
             "version": "1.0",
             "description": "JSON editor, formatter and validator.",
-            "download": "https://github.com/Adrianxodhds/nexus-json-studio/releases/latest/download/NEXUS-JSON-Studio.zip",
+            "download": "https://github.com/Adrianxodhds/NEXUS-JSON-Studio/releases/latest/download/NEXUS-JSON-Studio.zip",
             "default": true
         },
         {
             "name": "NEXUS Game Library",
             "version": "1.0",
             "description": "Game library and launcher.",
-            "download": "https://github.com/Adrianxodhds/nexus-game-library/releases/latest/download/NEXUS-Game-Library.zip",
+            "download": "https://github.com/Adrianxodhds/NEXUS-Game-Library/releases/latest/download/NEXUS-Game-Library.zip",
             "default": false
         },
         {
             "name": "NEXUS Hardware Dashboard",
             "version": "1.0",
-            "description": "PC hardware information dashboard.",
-            "download": "https://github.com/Adrianxodhds/nexus-hardware/releases/latest/download/NEXUS-Hardware.zip",
+            "description": "PC hardware monitoring dashboard.",
+            "download": "https://github.com/Adrianxodhds/NEXUS-Hardware/releases/latest/download/NEXUS-Hardware.zip",
+            "default": false
+        },
+        {
+            "name": "NEXUS Log Viewer",
+            "version": "1.0",
+            "description": "Viewer and analyzer for log files.",
+            "download": "https://github.com/Adrianxodhds/NEXUS-Log-Viewer/releases/latest/download/NEXUS-Log-Viewer.zip",
             "default": false
         }
     ]
