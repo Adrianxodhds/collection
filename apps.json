@@ -1,0 +1,25 @@
+{
+    "apps": [
+        {
+            "name": "NEXUS JSON Studio",
+            "version": "1.0",
+            "description": "JSON editor, formatter and validator.",
+            "download": "https://github.com/YOUR-GITHUB-USERNAME/nexus-json-studio/releases/latest/download/NEXUS-JSON-Studio.zip",
+            "default": true
+        },
+        {
+            "name": "NEXUS Game Library",
+            "version": "1.0",
+            "description": "Game library and launcher.",
+            "download": "https://github.com/YOUR-GITHUB-USERNAME/nexus-game-library/releases/latest/download/NEXUS-Game-Library.zip",
+            "default": false
+        },
+        {
+            "name": "NEXUS Hardware Dashboard",
+            "version": "1.0",
+            "description": "PC hardware information dashboard.",
+            "download": "https://github.com/YOUR-GITHUB-USERNAME/nexus-hardware/releases/latest/download/NEXUS-Hardware.zip",
+            "default": false
+        }
+    ]
+}
